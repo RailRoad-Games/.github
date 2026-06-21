@@ -18,21 +18,21 @@ Welcome to the official profile of **RailRoad Games**. We specialize in engineer
 
 ### 💻 Technology & Tooling
 
-* **Core Languages:** Java, Python, Bash
+* **Core Languages:** Java, PHP, HTML, CSS, Bash
 * **Frameworks & Architecture:** Netty, Leaflet, Fabric, Folia/Paper API
 * **Operations & Deployment:** Linux Systems Administration, Maven Automation, Git Workflow, systemctl
-* **Distribution Platforms:** GitHub, F-Droid
+* **Distribution Platforms:** GitHub, [Maven Repo](https://mvn.deepslatesmp.de), [Wiki](https://wiki.deepslatesmp.de)
 
 ---
 
 ### 📊 Repository Ecosystem
 
-![RailRoad Games GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuatschStudioGames&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuatschStudioGames&layout=compact&theme=dracula)
+![RailRoad Games GitHub Stats](https://github-readme-stats.vercel.app/api?usernameRailRoad-Games&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RailRoad-Gamess&layout=compact&theme=dracula)
 
 ---
 
 ### 🌐 Hubs
 
 * **GitHub Organization:** [@RailRoad-Games](https://github.com/RailRoad-Games)
-* **Development Alias:** [@FeGmbH](https://github.com/FeGmbH)
+* **Development Alias:** [@FeGmbH](https://github.com/fegmbh-qstudios)
