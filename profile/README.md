@@ -1,5 +1,5 @@
 
-# RailRoad Games 🚂
+# RailRoad Games 
 
 ### 🎮 Independent Game Development & Transit Simulation Studio
 
@@ -10,8 +10,7 @@ Welcome to the official profile of **RailRoad Games**. We specialize in engineer
 ### 🛠️ Featured Projects
 
 * **Underground Simulator** – A high-performance train simulation game featuring a multi-threaded server architecture designed for real-time multiplayer transit coordination.
-* **TrackScript** – A custom, lightweight scripting language purpose-built for automated railway switching, track signaling, and runtime logic execution.
-* **Railway Line Editor** – An interactive transit mapping tool leveraging Leaflet and OpenRailwayMap for geographic track alignment and network design.
+* **TrackScript** – A custom, lightweight scripting language.
 * **DeepslateSMP Infrastructure** – Advanced Minecraft network architecture optimized via Folia multi-threading and powered by customized system integrations.
 
 ---
