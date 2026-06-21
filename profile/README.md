@@ -27,8 +27,8 @@ Welcome to the official profile of **RailRoad Games**. We specialize in engineer
 
 ### 📊 Repository Ecosystem
 
-![RailRoad Games GitHub Stats](https://github-readme-stats.vercel.app/api?username=RailRoad-Games&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RailRoad-Games&layout=compact&theme=dracula)
+![RailRoad Games GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuatschStudioGames&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuatschStudioGames&layout=compact&theme=dracula)
 
 ---
 
